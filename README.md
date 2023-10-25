@@ -1,2 +1,2 @@
-# oasisinfobyte
-oasis infobyte internship project
+import panda as pd
+
